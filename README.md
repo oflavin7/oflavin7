@@ -19,18 +19,25 @@
 ---
 
 
-## 🛠️ Minhas Skills
+## 💬 Um pouco mais sobre mim
 
-<div align="center">
-  <!-- Badges de linguagens e ferramentas -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white"/>
-</div>
+Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca de novos aprendizados!
+
+- Atualmente estou estudando Banco de Dados (Universidade Uninter), Mas estou em busca de estágio como Analista de Dados.
+- Estou continuamente me colocando em desafios novos, gosto de arte, e produzo música nas horas vagas. 
 
 ---
 
 
+## 🛠️ Minhas Skills
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
+</div>
+
+---
 
 ## ✉️ Como me encontrar
 
@@ -46,16 +53,6 @@
 </div>
 
 ---
-
-## 💬 Um pouco mais sobre mim
-
-Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca de novos aprendizados!
-
-- Atualmente estou estudando Banco de Dados (Universidade Uninter), Mas estou em busca de estágio como Analista de Dados.
-- Estou continuamente me colocando em desafios novos, gosto de arte, e produzo música nas horas vagas. 
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
