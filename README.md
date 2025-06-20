@@ -2,7 +2,7 @@
 <!-- Cabeçalho com emojis e apresentação rápida -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src= https://readme-typing-svg.demolab.com?font=Syne&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Welcome+to+my+profile!+%E2%99%A6>
+    <img src= https://readme-typing-svg.demolab.com?font=Syne&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Bem-vindo+ao+meu+perfil!+%E2%99%A6>
 </div>
 
 <br>
@@ -10,8 +10,10 @@
 
 
 
-<h1 align="center" > <style="color:orange"> Olá, eu sou 
-<a href="https://github.com/oflavin7">Flávio Morais</a>🧑🏾‍💻</h1>
+<h1 align="center"<span style="color: inherit; text-decoration: none; font-weight: bold;">
+    Flávio Morais 🧑🏾‍💻
+  </a>
+</span></h1>
 <p align="center">  
   🎓 Estudante de Análise de Dados • 🚀 Transformando dados em insights  
 </p>
@@ -38,6 +40,7 @@ Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca d
 </div>
 
 ---
+
 
 ## ✉️ Como me encontrar
 
