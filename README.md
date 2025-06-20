@@ -2,8 +2,11 @@
 <!-- Cabeçalho com emojis e apresentação rápida -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src= https://readme-typing-svg.demolab.com?font=Syne&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Welcome+to+my+profile!+%E2%99%A6)](https://git.io/typing-svg>
+    <img src= https://readme-typing-svg.demolab.com?font=Syne&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Welcome+to+my+profile!+%E2%99%A6>
 </div>
+
+<br>
+<br>
 
 <h1 align="center">Olá, eu sou <a href="https://github.com/SEU_USUARIO">Flávio Morais</a> 👋</h1>
 <p align="center">  
@@ -28,12 +31,12 @@
 
 ## ✉️ Como me encontrar
 
-  <a href="mailto:flaviomorais820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="flaviomorais820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brightgreen?style=flat&logo=maildotru&logoColor=%23FF883CFF&logoSize=big&color=%23000000FF&link=flaviomorais820%40gmail.com"/>
   </a>
-  <a href="https://www.instagram.com/ogflavin7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+<a href= https://www.instagram.com/ogflavin7>
+  <img src="https://img.shields.io/badge/Instagram-brightgreen?style=flat&logo=instagram&logoColor=%23FF883CFF&logoSize=mad&color=%23000000FF&link=https%3A%2F%2Fwww.instagram.com%2Fogflavin7">
+</a>
 </div>
 
 ---
