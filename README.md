@@ -11,7 +11,7 @@
 
 
 <h1 align="center" > <style="color:orange"> Olá, eu sou 
-<a href="https://github.com/oflavin7">Flávio Morais</a>👋</h1>
+<a href="https://github.com/oflavin7">Flávio Morais</a>🧑🏾‍💻</h1>
 <p align="center">  
   🎓 Estudante de Análise de Dados • 🚀 Transformando dados em insights  
 </p>
@@ -51,11 +51,3 @@ Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca d
   <img src="https://img.shields.io/badge/Instagram-brightgreen?style=flat&logo=instagram&logoColor=%23FF883CFF&logoSize=mad&color=%23000000FF&link=https%3A%2F%2Fwww.instagram.com%2Fogflavin7">
 </a>
 </div>
-
----
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
