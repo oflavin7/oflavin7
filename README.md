@@ -1,9 +1,6 @@
-## Hi there 👋
 
 <!-- Cabeçalho com emojis e apresentação rápida -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oflavin7&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
 
 <h1 align="center">Olá, eu sou <a href="https://github.com/SEU_USUARIO">Flávio Morais</a> 👋</h1>
 <p align="center">  
@@ -48,6 +45,3 @@ Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca d
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square" alt="Profile Views" />
-</div>
