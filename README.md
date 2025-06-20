@@ -8,7 +8,10 @@
 <br>
 <br>
 
-<h1 align="center">Olá, eu sou <a href="https://github.com/SEU_USUARIO">Flávio Morais</a> 👋</h1>
+
+
+<h1 align="center" > <style="color:orange"> Olá, eu sou 
+<a href="https://github.com/oflavin7">Flávio Morais</a>👋</h1>
 <p align="center">  
   🎓 Estudante de Análise de Dados • 🚀 Transformando dados em insights  
 </p>
@@ -31,9 +34,12 @@
 
 ## ✉️ Como me encontrar
 
-  <a href="flaviomorais820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brightgreen?style=flat&logo=maildotru&logoColor=%23FF883CFF&logoSize=big&color=%23000000FF&link=flaviomorais820%40gmail.com"/>
-  </a>
+<div align="center">
+<a href="mailto:flaviomorais820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brightgreen?style=flat&logo=maildotru&logoColor=%23FF883CFF&logoSize=big&color=%23000000FF&link=flaviomorais820%40gmail.com">
+  </a> 
+<br>
+
 <a href= https://www.instagram.com/ogflavin7>
   <img src="https://img.shields.io/badge/Instagram-brightgreen?style=flat&logo=instagram&logoColor=%23FF883CFF&logoSize=mad&color=%23000000FF&link=https%3A%2F%2Fwww.instagram.com%2Fogflavin7">
 </a>
