@@ -39,9 +39,8 @@
 
 Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca de novos aprendizados!
 
-- 🌱 Atualmente estudando: SQL avançado, Phyton e Power BI  
-- 💼 Em busca de estágio como Analista de Dados  
-- 🎵 Produzo música nas horas vagas  
+- Atualmente estou estudando Banco de Dados (Universidade Uninter), Mas estou em busca de estágio como Analista de Dados.
+- Estou continuamente me colocando em desafios novos, gosto de arte, e produzo música nas horas vagas. 
 
 ---
 
