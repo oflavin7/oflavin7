@@ -1,6 +1,9 @@
 
 <!-- Cabeçalho com emojis e apresentação rápida -->
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src= https://readme-typing-svg.demolab.com?font=Syne&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Welcome+to+my+profile!+%E2%99%A6)](https://git.io/typing-svg>
+</div>
 
 <h1 align="center">Olá, eu sou <a href="https://github.com/SEU_USUARIO">Flávio Morais</a> 👋</h1>
 <p align="center">  
@@ -43,4 +46,10 @@ Gosto de explorar dados, criar, e desenhar soluções visuais. Sempre em busca d
 - Estou continuamente me colocando em desafios novos, gosto de arte, e produzo música nas horas vagas. 
 
 ---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
