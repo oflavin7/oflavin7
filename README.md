@@ -2,7 +2,7 @@
 <!-- Cabeçalho com emojis e apresentação rápida -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src= https://readme-typing-svg.demolab.com?font=Syne&duration=800&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Bem-vindo+ao+meu+perfil!+%E2%99%A6>
+    <img src= https://readme-typing-svg.demolab.com?font=Syne&duration=1000&weight=800&pause=1000&color=FF883C&width=435&lines=%E2%99%A6+Bem-vindo+ao+meu+perfil!+%E2%99%A6>
 </div>
 
 <br>
